@@ -5,6 +5,7 @@ This document describes the procedure carried out for the execution of an analys
 The results are discussed with an approach that seeks to classify Ecuadorian households according to their level of environmental awareness and environmental practices.
 
 The pdf file "Clustering_ambiente.pdf" is the paper that explains in more detail all the procedure and results, a translation of this paper to english is pending.
+
 In this repository we show all the implemented python scripts, images shown in the final paper and more that for brevity sake were not added to the paper. This images complement the results of our findings.
 
 Some steps (mostly of data extraction) were made in Weka, this is explained in the paper.
