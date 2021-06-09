@@ -1,4 +1,4 @@
-<h1>Implementing K-Means clustering for research about environmental awareness and environmental practices of Ecuadorian households regarding the enviroment</h1>
+<h1>Implementing K-Means clustering for research about environmental awareness and environmental practices of Ecuadorian households</h1>
 
 This document describes the procedure carried out for the execution of an analysis by grouping of Ecuadorian households according to their practices and environmental awareness. After a selection of variables of interest and a treatment of the data set, the K-means algorithm is used, supported by techniques such as the Elbow Method to group the Ecuadorian households surveyed. 
 
